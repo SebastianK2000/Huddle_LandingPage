@@ -3,6 +3,11 @@
 This project is a responsive landing page created for the Frontend Mentor challenge. It features a single introductory section with circles and text.
 
 
+## Link to the page: 
+
+https://second-mockup-not-responsible.netlify.app
+
+
 ## Preview
 
 
